@@ -1,0 +1,30 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+header{
+    position: sticky;
+    top:0;
+    background-attachment:white;
+}
+.left img{
+    width:55px ;
+    height: 34px;
+    padding :10px;
+}
+.container{
+    padding:0 10vw;
+    margin: auto;
+}
+nav ul li {
+    list-style:none;
+    padding:0px 12px ;
+}
+.serch{
+height: 30px;
+margin: auto;
+}
+.section1{
+    background-color: #f2f2f2;
+    height: 122vh;
+}
